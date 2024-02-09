@@ -1,0 +1,9 @@
+{
+    "name": "root/05-procedural-mvc-ajax",
+    "require": {
+        "mongodb/mongodb": "^1.1",
+      "ext-gd": "*",
+      "ext-mongodb": "*",
+      "ext-fileinfo": "*"
+    }
+}
